@@ -1,0 +1,2 @@
+C:/Users/Ahmed/Desktop/projectttt/Iguard-main/android/app/.cxx/RelWithDebInfo/452u201c/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Ahmed/Desktop/projectttt/Iguard-main/android/app/.cxx/RelWithDebInfo/452u201c/armeabi-v7a/CMakeFiles/rebuild_cache.dir

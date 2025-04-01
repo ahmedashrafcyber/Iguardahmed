@@ -1,0 +1,2 @@
+C:/Users/Ahmed/Desktop/projectttt/Iguard-main/android/app/.cxx/RelWithDebInfo/452u201c/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Ahmed/Desktop/projectttt/Iguard-main/android/app/.cxx/RelWithDebInfo/452u201c/x86_64/CMakeFiles/rebuild_cache.dir

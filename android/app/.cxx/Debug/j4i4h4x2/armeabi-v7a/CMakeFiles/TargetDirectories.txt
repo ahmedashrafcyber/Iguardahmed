@@ -1,0 +1,2 @@
+C:/Users/Ahmed/Desktop/projectttt/Iguard-main/android/app/.cxx/Debug/j4i4h4x2/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Ahmed/Desktop/projectttt/Iguard-main/android/app/.cxx/Debug/j4i4h4x2/armeabi-v7a/CMakeFiles/rebuild_cache.dir
